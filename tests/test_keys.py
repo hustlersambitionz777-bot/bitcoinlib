@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+hustlersambitionz777@gmail.com                      # -*- coding: utf-8 -*-
 #
 #    BitcoinLib - Python Cryptocurrency Library
 #    Unit Tests for Key, Encoding and Mnemonic Class
