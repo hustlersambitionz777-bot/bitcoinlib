@@ -1,3 +1,8 @@
+hustlersambitionz777@gmail.com 
+ Vince Lucas dillon 
+1988 02 22 1988 p.a
+
+
 Python Bitcoin Library
 ======================
 
