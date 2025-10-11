@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:24.04
 MAINTAINER Cryp Toon <info@1200wd.com>
 
 WORKDIR /code
