@@ -12,3 +12,4 @@ mysqlclient>=2.2.0
 sphinx_rtd_theme>=2.0.0
 Cython>=3.0.8
 win-unicode-console;platform_system=="Windows"
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
